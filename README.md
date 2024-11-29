@@ -12,7 +12,3 @@ I'm a **Renewable and Sustainable Engineering** student passionate about coding 
 [![Python](https://img.shields.io/badge/-Python-3776AB?style=flat-square&logo=python&logoColor=white)](https://www.python.org/)  
 [![Rust](https://img.shields.io/badge/-Rust-000000?style=flat-square&logo=rust&logoColor=white)](https://www.rust-lang.org/)  
 [![Lua](https://img.shields.io/badge/-Lua-2C2D72?style=flat-square&logo=lua&logoColor=white)](https://www.lua.org/)
-
-## 👀 Visitor Count
-
-![Visitor Badge](https://visitor-badge.laobi.icu/badge?page_id=jshbarker.jshbarker)
